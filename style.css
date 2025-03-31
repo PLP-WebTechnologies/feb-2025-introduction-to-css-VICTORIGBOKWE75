@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.intro{
+    background-color: lightgrey;
+    display: flex;
+    align-items: center;
+    padding: 50px 15% 30px;
+    gap: 9em;
+}
+
+.home h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.home h3 span{
+    color: brown;
+}
+
+#img img{
+    border-radius: 50%;
+    width: 350px;
+}
